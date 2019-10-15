@@ -25,7 +25,7 @@
         <p v-custom-on:click="methos">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aspernatur beatae culpa doloribus, ex
           facilis fugiat, fugit magni molestiae mollitia, nesciunt nihil perspiciatis quaerat quam quas ratione sequi
           unde ut!</p>
-          <button v-custom-on:click="metos">Tıklandı</button>
+          <button class="btn btn-primary" v-custom-on:click="metos">Tıklandı</button>
       </div>
     </div>
 
